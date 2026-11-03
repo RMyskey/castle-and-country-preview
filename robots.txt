@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /owner/
+
+Sitemap: https://www.example.com/sitemap.xml
